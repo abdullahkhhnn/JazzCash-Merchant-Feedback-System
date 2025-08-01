@@ -4,13 +4,14 @@ This repository contains a demo version of the Merchant Feedback System I develo
 
 ⚠️ Disclaimer: The original project was built using real JazzCash merchant data, which cannot be shared due to company policies. This repo contains dummy data and a demo Power BI dashboard created only for presentation and portfolio purposes.
 
-🚀 Project Overview
-During my internship at Jazz, I noticed that there was no structured feedback mechanism for merchants. To address this gap, I designed and implemented a feedback collection and analysis system.
+As part of my internship as a B2B Intern at JazzCash, I had the chance to explore how merchant feedback can be structured, collected, and visualized. To practice these skills, I created a demo project with dummy data using:
+Google Forms — for feedback collection
+FormRanger + Google Sheets — for dynamic dropdowns and data storage
+Power BI — for KPIs, dashboards, city-wise analysis, satisfaction trends, and problem tracking
 
-The system allows JazzCash to:
-Collect structured merchant feedback using Google Forms
-Store responses in Google Sheets with FormRanger for dynamic dropdowns (Cities, Merchant Types, Supervisors)
-Visualize feedback in Power BI through interactive dashboards
+This project was developed as a demo version for learning and presentation purposes only. The real systems at JazzCash provided me with valuable learning opportunities, and this demo helped me apply that knowledge in a practical way.
+
+I’m sincerely thankful to JazzCash team and my supervisor Mansoor Ali Khan for their guidance, mentorship, and continuous support throughout this internship. This journey has been an incredible learning experience that has strengthened both my technical and professional skills.
 
 🛠 Tools & Technologies
 Google Forms – Merchant feedback collection
